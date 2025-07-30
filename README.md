@@ -7,7 +7,7 @@
 * **Books:**
 
   * ☐ *Thinking in Systems* – Donella Meadows (**essential for you!**)
-  * ☐ *The Art of Insight* – Charles Wheelan
+  * ☐ *Naked Statistics* – Charles Wheelan
   * ☐ *How Not to Be Wrong* – Jordan Ellenberg
 * **Courses:**
 
