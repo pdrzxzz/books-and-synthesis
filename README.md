@@ -7,7 +7,6 @@
 * **Books:**
 
   * ☐ *Thinking in Systems* – Donella Meadows (**essential for you!**)
-  * ☐ *Naked Statistics* – Charles Wheelan
   * ☐ *How Not to Be Wrong* – Jordan Ellenberg
 * **Courses:**
 
@@ -32,7 +31,7 @@
 
 ---
 
-### **3. Causality & Dynamic Systems**
+### **3. Causality**
 
 **Goal:** Identify *causal relationships* instead of mere correlations.
 
@@ -55,8 +54,8 @@
 * **Books:**
 
   * ☐ *Complexity: A Guided Tour* – Melanie Mitchell
-  * ☐ *Antifragile* – Nassim Taleb
   * ☐ *The Model Thinker* – Scott Page
+  * ☐ *Antifragile* – Nassim Taleb
 * **Tools:**
 
   * ☐ *Network Analysis* (Barabási’s books)
@@ -72,7 +71,7 @@
 
   * ☐ *The Visual Display of Quantitative Information* – Edward Tufte
   * ☐ *Storytelling with Data* – Cole Knaflic
-  * ☐ *Knowledge is Beautiful* – David McCandless
+  * ☐ *The Functional Art* – Alberto Cairo
 * **Courses:**
 
   * ☐ *Data Visualization for Storytellers* – UC Berkeley (edX)
@@ -87,7 +86,7 @@
 
   * ☐ *Weapons of Math Destruction* – Cathy O’Neil
   * ☐ *The Data Detective* – Tim Harford
-  * ☐ *AI 2041* – Kai-Fu Lee
+  * ☐ *Hello World: Being Human in the Age of Algorithms* – Hannah Fry
 * **Courses:**
 
   * ☐ *Science and Technology Studies* – MIT OCW
@@ -107,6 +106,6 @@
 * **Tools:**
 
   * ☐ *ObservableHQ*
-  * ☐ *Jupyter Notebooks* (for visualization only)
+  * ☐ *Google colab*
 
 ---
