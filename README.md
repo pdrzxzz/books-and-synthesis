@@ -1,5 +1,21 @@
 # Investigative Data Science Roadmap
 
+### **0. Technical Foundations**
+
+**Goal:** Build core technical skills in Python, data analysis, and deep learning to enable hands-on investigative work.
+
+* **Books:**
+  - **Basic:**
+    * ☐ *Python for Data Analysis* – Wes McKinney (**essential**)
+    * ☐ *Automate the Boring Stuff with Python* – Al Sweigart
+  - **Advanced:**
+    * ☐ *Practical Statistics for Data Scientists* – Bruce
+    * ☐ *Python Data Science Handbook* – Jake VanderPlas
+    * ☐ *Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow* – Aurélien Géron
+    * ☐ *Deep Learning with Python* – François Chollet
+
+---
+
 ### **1. Fundamentals of Analytical Thinking**
 
 **Goal:** Build a logical foundation to interpret data as *signals of complex systems*.
@@ -96,16 +112,21 @@
 
 ### **7. Investigative Case Studies**
 
-**Goal:** Learn from *real-world analyses* of complex systems.
+**Goal:** Learn from *real-world analyses* of complex systems to practice investigative methods and deepen understanding.
 
 * **Examples:**
 
-  * ☐ *Datasaurus Dozen*
-  * ☐ *COVID-19 Data Challenges*
-  * ☐ *Enron Emails Analysis*
+  * ☐ *Datasaurus Dozen* — shows importance of visualization beyond summary stats
+  * ☐ *COVID-19 Data Challenges* — epidemiological modeling and policy impact analysis
+  * ☐ *Enron Emails Analysis* — uncovering organizational behavior and communication patterns
+  * ☐ *The Panama Papers Investigation* — complex network and financial data analysis
+  * ☐ *Fukushima Nuclear Disaster Data* — cross-disciplinary investigation of causality and failure modes
+  * ☐ *Crime Mapping and Predictive Policing* — spatial data and pattern detection
+  * ☐ *Financial Market Anomalies* — identifying patterns and causal factors in market data
+
 * **Tools:**
 
-  * ☐ *ObservableHQ*
-  * ☐ *Google colab*
-
----
+  * ☐ *ObservableHQ* — interactive data notebooks for visualization and storytelling
+  * ☐ *Tableau / Power BI* — advanced data visualization platforms
+  * ☐ *NetworkX (Python)* — programmatic network analysis
+  * ☐ *Kepler.gl* — spatial and geospatial data visualization
