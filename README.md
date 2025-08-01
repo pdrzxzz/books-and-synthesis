@@ -22,7 +22,7 @@
 
 * **Books:**
 
-  * ☐ *Thinking in Systems* – Donella Meadows (**essential for you!**)
+  * ☐ *Thinking in Systems* – Donella Meadows (**essential for you!**) Page 49
   * ☐ *How Not to Be Wrong* – Jordan Ellenberg
 * **Courses:**
 
