@@ -1,0 +1,8 @@
+Simple:
+
+Stocks are things that build up or collect over time, like the number of cookies in a jar or toys in your toy box. 
+You can see them, count them, and they usually change slowly.
+
+Complex:
+
+A stock is any quantity that can be measured at a given time and that accumulates or depletes over time, such as water in a reservoir, money in a bank account, or people in a population. Stocks are the foundation of system behavior because they represent the state of the system and change based on the difference between inflows (what adds to the stock) and outflows (what takes away from it). They act as buffers that can stabilize or delay change, making the system’s behavior more gradual and less volatile.
