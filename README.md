@@ -1,7 +1,7 @@
 # Investigative Data Science Roadmap
 
-## Current Theory: *Thinking in Systems* – Donella Meadows — Page 49
-## Current practice: 
+Current Theory: *Thinking in Systems* – Donella Meadows — Page 49  
+Current practice: 
 
 ### **0. Technical Foundations**
 
