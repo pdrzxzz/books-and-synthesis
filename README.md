@@ -1,5 +1,8 @@
 # Investigative Data Science Roadmap
 
+## Current Theory: *Thinking in Systems* – Donella Meadows — Page 49
+## Current practice: 
+
 ### **0. Technical Foundations**
 
 **Goal:** Build core technical skills in Python, data analysis, and deep learning to enable hands-on investigative work.
@@ -22,7 +25,7 @@
 
 * **Books:**
 
-  * ☐ *Thinking in Systems* – Donella Meadows (**essential for you!**) Page 49
+  * ☐ *Thinking in Systems* – Donella Meadows (**essential for you!**)
   * ☐ *How Not to Be Wrong* – Jordan Ellenberg
 * **Courses:**
 
@@ -110,12 +113,13 @@
 
 ---
 
-### **7. Investigative Case Studies**
+### **Appendix 1. Practice**
 
 **Goal:** Learn from *real-world analyses* of complex systems to practice investigative methods and deepen understanding.
 
 * **Examples:**
 
+  * ☐ *The current educational methodology in Brazilian schools and universities*
   * ☐ *Datasaurus Dozen* — shows importance of visualization beyond summary stats
   * ☐ *COVID-19 Data Challenges* — epidemiological modeling and policy impact analysis
   * ☐ *Enron Emails Analysis* — uncovering organizational behavior and communication patterns
