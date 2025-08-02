@@ -27,6 +27,9 @@ Current practice:
 
   * ☐ *Thinking in Systems* – Donella Meadows (**essential for you!**)
   * ☐ *How Not to Be Wrong* – Jordan Ellenberg
+  * ☐ *How to Read a Book* – Mortimer Adler
+  * ☐ *Superforecasting* – Philip Tetlock
+  * ☐ *Thinking-fast-and-slow* – Daniel Kahneman
 * **Courses:**
 
   * ☐ *Critical Thinking at Work* – LinkedIn Learning
