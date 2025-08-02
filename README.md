@@ -1,6 +1,6 @@
 # Investigative Data Science Roadmap
 
-Current Theory: *Thinking in Systems* – Donella Meadows — Page 69 — A System with Delays 
+Current Theory: *Thinking in Systems* – Donella Meadows — Page 69 — A System with Delays  
 Current practice: 
 
 ### **0. Technical Foundations**
