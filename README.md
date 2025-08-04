@@ -34,6 +34,7 @@ Current practice:
   * ☐ *The Deduction Guide* – Louise Blackwood
   * ☐ *Thinkertoys* – Michael Michalko
   * ☐ *What is the name of this book?* – Raymond Smullyan
+  * ☐ *The Science Book* – DK
 * **Courses:**
 
   * ☐ *Critical Thinking at Work* – LinkedIn Learning
