@@ -33,6 +33,7 @@ Current practice:
   * ☐ *The art of Thinking Clearly* – Rolf Dobelli
   * ☐ *The Deduction Guide* – Louise Blackwood
   * ☐ *Thinkertoys* – Michael Michalko
+  * ☐ *What is the name of this book?* – Raymond Smullyan
 * **Courses:**
 
   * ☐ *Critical Thinking at Work* – LinkedIn Learning
