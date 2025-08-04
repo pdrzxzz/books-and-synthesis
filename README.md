@@ -31,6 +31,8 @@ Current practice:
   * ☐ *Superforecasting* – Philip Tetlock
   * ☐ *Thinking-fast-and-slow* – Daniel Kahneman
   * ☐ *The art of Thinking Clearly* – Rolf Dobelli
+  * ☐ *The Deduction Guide* – Louise Blackwood
+  * ☐ *Thinkertoys* – Michael Michalko
 * **Courses:**
 
   * ☐ *Critical Thinking at Work* – LinkedIn Learning
