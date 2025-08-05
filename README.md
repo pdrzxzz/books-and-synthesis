@@ -1,7 +1,7 @@
 # Investigative Data Science Roadmap
 
 Current Theory:  
-*Thinking in Systems* – Donella Meadows — Page 94  
+*Thinking in Systems* – Donella Meadows — Page 102 — Hierarchy
 *How to Read a Book* – Mortimer Adler — Page 25 — Reading as learning
 Current practice: 
 
