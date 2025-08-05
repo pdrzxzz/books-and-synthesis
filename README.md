@@ -2,7 +2,7 @@
 
 Current Theory:  
 *Thinking in Systems* – Donella Meadows — Page 109 —  
-*How to Read a Book* – Mortimer Adler — Page 25 — Reading as learning  
+*How to Read a Book* – Mortimer Adler — Page 30 — Reading as learning  
 Current practice: 
 
 ### **0. Technical Foundations**
