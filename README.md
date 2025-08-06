@@ -1,7 +1,7 @@
 # The Mind’s Roadmap
 
 Current book(s):  
-- *Thinking in Systems* – Donella Meadows — Page 109 —  
+- *Thinking in Systems* – Donella Meadows — Page 122  
 - *How to Read a Book* – Mortimer Adler — Page 30 — Reading as learning
 
 Current practice:  
