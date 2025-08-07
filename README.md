@@ -41,6 +41,7 @@
 - ☐ *The Functional Art* – Alberto Cairo  
 
 ### Learning, Focus & Intellectual Life  
+- ☐ *How to Read a Book* – Mortimer Adler
 - ☐ *The Intellectual Life* – A.G. Sertillanges  
 - ☐ *The Art of Learning* – Josh Waitzkin  
 - ☐ *Deep Work* – Cal Newport  
