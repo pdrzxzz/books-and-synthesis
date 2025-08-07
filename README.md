@@ -126,7 +126,16 @@
 - ☐ *Antifragile* – Nassim Taleb  
 - ☐ *The Systems View of Life* – Fritjof Capra  
 - ☐ *The Beginning of Infinity* – David Deutsch  
-- ☐ *Scale* – Geoffrey West  
+- ☐ *Scale* – Geoffrey West
+
+### Religion & Comparative Belief Systems  
+- ☐ *The World's Religions* – Huston Smith  
+- ☐ *God Is Not One* – Stephen Prothero  
+- ☐ *A History of God* – Karen Armstrong  
+- ☐ *The Bhagavad Gita* – (Commented by Eknath Easwaran)  
+- ☐ *The Dhammapada* – (Commented by Eknath Easwaran)  
+- ☐ *The Quran* – (Translation with notes by M.A.S. Abdel Haleem)  
+- ☐ *Mere Christianity* – C.S. Lewis  
 
 ## **Projects**
 
