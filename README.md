@@ -2,7 +2,7 @@
 
 - Current book(s):  
   - *Thinking in Systems* – Donella Meadows — Page 122  
-  - *How to Read a Book* – Mortimer Adler — Page 30 — Reading as learning
+  - *How to Read a Book* – Mortimer Adler — Page 37 — Reading as learning
 
 - Current project:  
   - None
