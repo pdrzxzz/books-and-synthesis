@@ -130,7 +130,8 @@
 - ☐ *Deep Learning with Python* – François Chollet  
 
 ## **Projects**  
-- ☐ *The current educational methodology in Brazilian schools and universities*  
+- ☐ *The current educational system in Brazilian universities*
+- ☐ *Legalization of Abortion*
 
 ### **Tools:**  
 - ☐ *ObservableHQ*  
