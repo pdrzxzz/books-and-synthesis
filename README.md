@@ -1,7 +1,7 @@
 # Cognitive Atlas
 
 - Current book(s):  
-  - *Thinking in Systems* – Donella Meadows — Page 122  
+  - *Thinking in Systems* – Donella Meadows — Page 134  
   - *How to Read a Book* – Mortimer Adler — Page 59
 
 - Current project:  
