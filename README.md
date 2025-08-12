@@ -132,6 +132,7 @@
 ## **Projects**  
 - ☐ *The current educational system in Brazilian universities*
 - ☐ *Legalization of Abortion*
+- ☐ *The effect of pornography*
 
 ### **Tools:**  
 - ☐ *ObservableHQ*  
