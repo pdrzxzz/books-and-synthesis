@@ -127,7 +127,11 @@
 - ☐ *Automate the Boring Stuff with Python* – Al Sweigart  
 - ☐ *Python Data Science Handbook* – Jake VanderPlas  
 - ☐ *Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow* – Aurélien Géron  
-- ☐ *Deep Learning with Python* – François Chollet  
+- ☐ *Deep Learning with Python* – François Chollet
+
+- ## **Board Games**  
+- ☐ *Winning Chess Games* – Yasser Seirawan  
+
 
 ## **Projects**  
 - ☐ *The current educational system in Brazilian universities*
