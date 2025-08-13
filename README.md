@@ -1,7 +1,7 @@
 # Cognitive Atlas
 
 - Current book(s):  
-  - *Thinking in Systems* – Donella Meadows — Page 184 — 3. 
+  - *Thinking in Systems* – Donella Meadows — Page 190
   - *How to Read a Book* – Mortimer Adler — Page 59
 
 - Current project:  
@@ -49,7 +49,7 @@
 - ☐ *The Magic of Reality* – Richard Dawkins  
 - ☐ *A Short History of Nearly Everything* – Bill Bryson  
 
-## **Physics & Reality**  
+## **Physics**  
 - ☐ *The Physics Book* – DK  
 - ☐ *Relativity: The Special and the General Theory* – Albert Einstein  
 - ☐ *The Elegant Universe* – Brian Greene  
@@ -58,7 +58,7 @@
 - ☐ *Six Easy Pieces* – Richard Feynman  
 - ☐ *The Fabric of the Cosmos* – Brian Greene  
 
-## **Evolutionary Biology & Nature of Life**  
+## **Evolutionary Biology**  
 - ☐ *The Selfish Gene* – Richard Dawkins  
 - ☐ *Your Inner Fish* – Neil Shubin  
 - ☐ *The Greatest Show on Earth* – Richard Dawkins  
