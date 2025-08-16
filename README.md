@@ -3,7 +3,7 @@
 - Current book(s):  
   - *Thinking in Systems* – Donella Meadows — Page 190
   - *How to Read a Book* – Mortimer Adler — Page 59
-  - *The Art of Thinking Clearly* - Rolf Dobelli — Page 17
+  - *The Science Book* — DK 
 
 - Current project:  
   - None  
