@@ -1,7 +1,6 @@
 # Cognitive Atlas
 
 - Current book(s):  
-  - *Thinking in Systems* – Donella Meadows — Page 201
   - *How to Read a Book* – Mortimer Adler — Page 59
   - *The Science Book* — DK — Page 22
 
@@ -66,7 +65,7 @@
 - ☐ *The Extended Phenotype* – Richard Dawkins  
 
 ## **Systems Thinking & Complexity**  
-- ☐ *Thinking in Systems* – Donella Meadows  
+- ✅ *Thinking in Systems* – Donella Meadows  
 - ☐ *Complexity: A Guided Tour* – Melanie Mitchell  
 - ☐ *The Model Thinker* – Scott Page  
 - ☐ *Antifragile* – Nassim Taleb  
