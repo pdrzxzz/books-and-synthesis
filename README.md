@@ -120,18 +120,39 @@
 - ☐ *The War of Art* – Steven Pressfield  
 - ☐ *Creativity, Inc.* – Ed Catmull  
 - ☐ *Lateral Thinking* – Edward de Bono  
-- ☐ *The Creative Act* – Rick Rubin  
+- ☐ *The Creative Act* – Rick Rubin
+
+## **Geography & World Understanding**  
+- ☐ *Prisoners of Geography* – Tim Marshall  
+- ☐ *The Power of Geography* – Tim Marshall  
+- ☐ *Why Geography Matters* – Harm de Blij  
+- ☐ *The Geography of Thought* – Richard Nisbett  
+- ☐ *Geopolitics for Dummies* – Aymeric Chauprade  
+- ☐ *National Geographic Atlas of the World* (reference)  
+- ☐ *Oxford Student Atlas* (reference)  
+
+## **English Language & Academic Reading**  
+- ☐ *English for Academic Research: Reading Skills* – Adrian Wallwork  
+- ☐ *Practical English Usage* – Michael Swan  
+- ☐ *The Elements of Style* – Strunk & White  
+- ☐ *Academic Vocabulary in Use* – Michael McCarthy & Felicity O’Dell  
+- ☐ *Oxford Advanced Learner’s Dictionary* (reference)  
+- ☐ *Improve Your Reading* – Ron Fry  
 
 ## **Programming & Data Science**  
-- ☐ *Python for Data Analysis* – Wes McKinney (**essential**)  
+- ☐ *Python for Data Analysis* – Wes McKinney
 - ☐ *Automate the Boring Stuff with Python* – Al Sweigart  
 - ☐ *Python Data Science Handbook* – Jake VanderPlas  
 - ☐ *Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow* – Aurélien Géron  
 - ☐ *Deep Learning with Python* – François Chollet
 
-- ## **Board Games**  
+## **Board Games**  
 - ☐ *Winning Chess Games* – Yasser Seirawan  
-
+- ☐ *Logical Chess: Move by Move* – Irving Chernev  
+- ☐ *Go: A Complete Introduction to the Game* – Cho Chikun  
+- ☐ *Backgammon* – Paul Magriel  
+- ☐ *A Gamut of Games* – Sid Sackson  
+- ☐ *The Art of Strategy* – Avinash Dixit & Barry Nalebuff  
 
 ## **Projects**  
 - ☐ *The current educational system in Brazilian universities*
