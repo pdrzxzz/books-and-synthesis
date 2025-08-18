@@ -1,7 +1,7 @@
 # Cognitive Atlas
 
 - Current book(s):  
-  - *How to Read a Book* – Mortimer Adler — Page 59
+  - *How to Read a Book* – Mortimer Adler — Page 71
   - *The Science Book* — DK — Page 28
 
 - Current project:  
