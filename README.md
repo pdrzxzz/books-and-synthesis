@@ -2,7 +2,7 @@
 
 - Current book(s):  
   - *How to Read a Book* – Mortimer Adler — Page 97
-  - *The Science Book* — DK — Page 28
+  - *The Science Book* — DK — Page 34
 
 - Current project:  
   - None  
