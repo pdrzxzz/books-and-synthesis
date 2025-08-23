@@ -106,11 +106,11 @@
 * ☐ *The Imperative of Responsibility* – Hans Jonas
 
 ## **Linguistics**
-* ☐ *Course in General Linguistics* – Ferdinand de Saussure *(foundational ideas on language structure and semiotics)*
-* ☐ *Syntactic Structures* – Noam Chomsky *(introduces generative grammar, essential for modern linguistics)*
-* ☐ *Aspects of the Theory of Syntax* – Noam Chomsky *(expands Chomsky’s syntactic theories in depth)*
-* ☐ *The Power of Babel: A Natural History of Language* – John McWhorter *(history and evolution of languages, accessible)*
-* ☐ *Women, Fire, and Dangerous Things* – George Lakoff *(cognitive linguistics, meaning, and categorization)*
+* ☐ *Course in General Linguistics* – Ferdinand de Saussure
+* ☐ *Syntactic Structures* – Noam Chomsky
+* ☐ *Aspects of the Theory of Syntax* – Noam Chomsky
+* ☐ *The Power of Babel: A Natural History of Language* – John McWhorter
+* ☐ *Women, Fire, and Dangerous Things* – George Lakoff
 
 ## **Geology**
 * ☐ *Essentials of Geology* – Stephen Marshak
@@ -155,9 +155,9 @@
 * ☐ *Justice: What’s the Right Thing to Do?* – Michael Sandel
 * ☐ *The Rule of Law* – Tom Bingham
 * ☐ *Letters to a Young Lawyer* – Alan Dershowitz
-* ☐ *Curso de Direito Constitucional* – José Afonso da Silva *(Brazilian constitutional law, foundational for understanding Brazil’s legal system)*
-* ☐ *Comentários ao Código Civil* – Maria Helena Diniz *(key reference for Brazilian civil law)*
-* ☐ *Direito Administrativo Brasileiro* – Hely Lopes Meirelles *(classic on Brazilian administrative law)*
+* ☐ *Curso de Direito Constitucional* – José Afonso da Silva
+* ☐ *Comentários ao Código Civil* – Maria Helena Diniz
+* ☐ *Direito Administrativo Brasileiro* – Hely Lopes Meirelles
 
 ## **Health**
 * ☐ *The Emperor of All Maladies: A Biography of Cancer* – Siddhartha Mukherjee
@@ -209,7 +209,7 @@
 - ☐ *Practical Statistics for Data Scientists* – Bruce  
 - ☐ *The Signal and the Noise* – Nate Silver  
 - ☐ *Naked Statistics* – Charles Wheelan  
-- ☐ *Statistical Rethinking* – Richard McElreath (Bayesian concepts only)  
+- ☐ *Statistical Rethinking* – Richard McElreath
 
 ## **Data Visualization**  
 - ☐ *The Visual Display of Quantitative Information* – Edward Tufte  
