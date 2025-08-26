@@ -2,7 +2,7 @@
 
 - Current book(s):  
   - *How to Read a Book* – Mortimer Adler — PDF — Page 97
-  - *The Science Book* — DK — PDF — Page 44
+  - *The Science Book* — DK — PDF — Page 47
   - *Letters from a Stoic* — Seneca — Kindle
   - *Crime and Punishment* — Dostoevsky — Physical Book
 
