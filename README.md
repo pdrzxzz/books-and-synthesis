@@ -45,7 +45,8 @@
 - ☐ *The Science Book* – DK  
 - ☐ *Gödel, Escher, Bach* – Douglas Hofstadter  
 - ☐ *The Magic of Reality* – Richard Dawkins  
-- ☐ *A Short History of Nearly Everything* – Bill Bryson  
+- ☐ *A Short History of Nearly Everything* – Bill Bryson
+- ☐ *Natural Questions* – Seneca  
 
 ## **History**
 * ☐ *A Short History of Nearly Everything* – Bill Bryson
