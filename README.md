@@ -5,6 +5,8 @@
   - *The Science Book* — DK — PDF — Page 47
   - *Letters from a Stoic* — Seneca — Kindle
   - *Crime and Punishment* — Dostoevsky — Physical Book
+  - *Animais do mundo* — Physical Book
+  - *Blue lock* - Manga
 
 ## **Critical Thinking & Logic**  
 - ☐ *How Not to Be Wrong* – Jordan Ellenberg  
