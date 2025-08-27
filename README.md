@@ -6,7 +6,7 @@
   - *Letters from a Stoic* — Seneca — Kindle
   - *Crime and Punishment* — Dostoevsky — Physical Book
   - *Animais do mundo* — Physical Book
-  - *Blue lock* - Manga
+  - *Blue lock* - Manga 172
 
 ## **Critical Thinking & Logic**  
 - ☐ *How Not to Be Wrong* – Jordan Ellenberg  
