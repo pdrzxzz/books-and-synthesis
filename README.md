@@ -7,7 +7,7 @@
     
   Studying:
   - *How to Read a Book* – Mortimer Adler — PDF — Page 106
-  - *The Science Book* — DK — PDF — Page 47
+  - *The Science Book* — DK — PDF — Page 60
     
   Just Reading:
   - *Letters from a Stoic* — Seneca — Kindle
