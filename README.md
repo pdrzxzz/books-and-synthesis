@@ -2,7 +2,7 @@
 - Current Month: 09
 - Main Domain: Critical Thinking & Logic
 - Side Domain(s): Learning & General Science
-- College Domain(s): Computer Science
+- College Domain: Computer Science
 - Current book(s):
     
   Studying:
