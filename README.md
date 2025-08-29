@@ -6,7 +6,7 @@
 - Current book(s):
     
   Studying:
-  - *How to Read a Book* – Mortimer Adler — PDF — Page 106
+  - *How to Read a Book* – Mortimer Adler — PDF — Page 128
   - *The Science Book* — DK — PDF — Page 60
     
   Just Reading:
