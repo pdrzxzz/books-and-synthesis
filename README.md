@@ -28,6 +28,7 @@
 
 ## **Learning**  
 - ☐ *How to Read a Book* – Mortimer Adler  
+- ☐ *Make it Stick* – Peter C. Brown  
 - ☐ *The Intellectual Life* – A.G. Sertillanges  
 - ☐ *The Art of Learning* – Josh Waitzkin  
 - ☐ *Deep Work* – Cal Newport  
