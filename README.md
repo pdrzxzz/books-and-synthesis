@@ -1,8 +1,14 @@
 # Reading Tracker
-
-- Current book(s):  
+- Current Month: 09
+- Main Domain: Critical Thinking & Logic
+- Side Domain(s): Learning & General Science
+- Current book(s):
+    
+  Studying:
   - *How to Read a Book* – Mortimer Adler — PDF — Page 106
   - *The Science Book* — DK — PDF — Page 47
+    
+  Just Reading:
   - *Letters from a Stoic* — Seneca — Kindle
   - *Crime and Punishment* — Dostoevsky — Physical Book
   - *Animais do mundo* — Physical Book
