@@ -5,12 +5,13 @@
 - Current book(s):
     
   Studying:
+  - *Cálculo para Leigos* — Mark Ryan — Physical — Page 0 (Math)
   - *How to Read a Book* – Mortimer Adler — PDF — Page 182 (Learning)
 
   Just Reading:
   - *Letters from a Stoic* — Seneca — Kindle
-  - *Crime and Punishment* — Dostoevsky — Physical Book
-  - *Animais do mundo* — Physical Book
+  - *Crime and Punishment* — Dostoevsky — Physical
+  - *Animais do mundo* — Physical
 
   Paused: 
   - *The Science Book* — DK — PDF — Page 60 (General Science)
