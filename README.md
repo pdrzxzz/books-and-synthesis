@@ -1,6 +1,6 @@
 # Reading Tracker
-- Current Month: 09
-- College Domain: Computer Science
+- Current period: 05
+- College Domain: Computer Science, Math and Physics
 - Side Domain(s): Learning
 - Current book(s):
     
