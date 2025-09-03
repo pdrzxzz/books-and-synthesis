@@ -11,7 +11,6 @@
   - *Letters from a Stoic* — Seneca — Kindle
   - *Crime and Punishment* — Dostoevsky — Physical Book
   - *Animais do mundo* — Physical Book
-  - *Blue lock* - Manga — Chapter 221  
 
   Paused: 
   - *The Science Book* — DK — PDF — Page 60 (General Science)
