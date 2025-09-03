@@ -5,7 +5,7 @@
 - Current book(s):
     
   Studying:
-  - *How to Read a Book* – Mortimer Adler — PDF — Page 154 (Learning)
+  - *How to Read a Book* – Mortimer Adler — PDF — Page 182 (Learning)
 
   Just Reading:
   - *Letters from a Stoic* — Seneca — Kindle
