@@ -1,18 +1,21 @@
 # Reading Tracker
 - Current Month: 09
 - College Domain: Computer Science
-- Side Domain(s): Learning & General Science
+- Side Domain(s): Learning
 - Current book(s):
     
   Studying:
   - *How to Read a Book* – Mortimer Adler — PDF — Page 154 (Learning)
-  - *The Science Book* — DK — PDF — Page 60 (General Science)
-    
+
   Just Reading:
   - *Letters from a Stoic* — Seneca — Kindle
   - *Crime and Punishment* — Dostoevsky — Physical Book
   - *Animais do mundo* — Physical Book
-  - *Blue lock* - Manga — Chapter 221
+  - *Blue lock* - Manga — Chapter 221  
+
+  Paused: 
+  - *The Science Book* — DK — PDF — Page 60 (General Science)
+    
 
 ## **Critical Thinking & Logic**  
 - ☐ *How Not to Be Wrong* – Jordan Ellenberg  
