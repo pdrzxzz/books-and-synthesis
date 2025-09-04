@@ -6,7 +6,7 @@
     
   Studying:
   - *Cálculo para Leigos* — Mark Ryan — Physical — Page 0 (Math)
-  - *How to Read a Book* – Mortimer Adler — PDF — Page 203 (Learning)
+  - *How to Read a Book* – Mortimer Adler — PDF — Page 217 (Learning)
 
   Just Reading:
   - *Letters from a Stoic* — Seneca — Kindle
