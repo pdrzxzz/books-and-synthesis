@@ -9,12 +9,12 @@
   - *How to Read a Book* – Mortimer Adler — PDF — Page 229 (Learning)
 
   Just Reading:
-  - *Crime and Punishment* — Dostoevsky — Physical
+  - *Crime e castigo* — Dostoiévski — Physical
   - *Animais do mundo* — Physical
+  - *De quanta terra precisa um homem e outros contos* — Liev Tolstói — PDF — Page 0
 
   Paused: 
   - *The Science Book* — DK — PDF — Page 60 (General Science)
-    
 
 ## **Critical Thinking & Logic**  
 - ☐ *How Not to Be Wrong* – Jordan Ellenberg  
