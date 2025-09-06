@@ -9,7 +9,6 @@
   - *How to Read a Book* – Mortimer Adler — PDF — Page 229 (Learning)
 
   Just Reading:
-  - *Letters from a Stoic* — Seneca — Kindle
   - *Crime and Punishment* — Dostoevsky — Physical
   - *Animais do mundo* — Physical
 
