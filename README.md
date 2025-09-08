@@ -11,8 +11,7 @@
   Just Reading:
   - *Crime e castigo* — Dostoiévski — Physical
   - *Animais do mundo* — Physical
-  - *De quanta terra precisa um homem e outros contos* — Liev Tolstói — PDF — Page 0
-
+ 
   Paused: 
   - *The Science Book* — DK — PDF — Page 60 (General Science)
 
