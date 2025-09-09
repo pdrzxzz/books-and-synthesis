@@ -1,19 +1,17 @@
 # Reading Tracker
-- Current period: 05
-- College Domain: Computer Science, Math and Physics
-- Side Domain(s): Learning
+- Current period: **05**
+- College Domain: **Computer Science**, **Math** and **Physics**
+- Side Domain(s): **Learning**
 - Current book(s):
     
-  Studying:
+  **Studying**:
+  - *Fundamentos de Física* — Halliday & Resnick (Physics) 
   - *Cálculo para Leigos* — Mark Ryan — Physical — Page 0 (Math)
   - *How to Read a Book* – Mortimer Adler — PDF — Page 229 (Learning)
 
-  Just Reading:
+  **Just Reading**:
   - *Crime e castigo* — Dostoiévski — Physical
   - *Animais do mundo* — Physical
- 
-  Paused: 
-  - *The Science Book* — DK — PDF — Page 60 (General Science)
 
 ## **Critical Thinking & Logic**  
 - ☐ *How Not to Be Wrong* – Jordan Ellenberg  
@@ -261,4 +259,7 @@
 
 ### **Tools:**  
 - ☐ *ObservableHQ*  
-- ☐ *Tableau / Power BI*  
+- ☐ *Tableau / Power BI*
+
+  Paused: 
+  - *The Science Book* — DK — PDF — Page 60 (General Science)
