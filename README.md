@@ -5,7 +5,7 @@
 - Current book(s):
     
   **Studying**:
-  - *Fundamentos de Física* — Halliday & Resnick (Physics) 
+  - *Fundamentos de Física* — Halliday & Resnick — Page 42 (Physics) 
   - *Cálculo para Leigos* — Mark Ryan — Physical — Page 0 (Math)
   - *How to Read a Book* – Mortimer Adler — PDF — Page 229 (Learning)
 
