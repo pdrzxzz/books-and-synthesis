@@ -6,7 +6,7 @@
     
   **Studying**:
   - *Fundamentos de Física* — Halliday & Resnick — PDF — Page 42 (Physics) 
-  - *How to Read a Book* – Mortimer Adler — PDF — Page 229 (Learning)
+  - *How to Read a Book* – Mortimer Adler — PDF — Page 248 (Learning)
   - *Cálculo para Leigos* — Mark Ryan — Physical — Page 0 (Math)
 
   **Just Reading**:
