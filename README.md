@@ -10,8 +10,8 @@
   - *Cálculo para Leigos* — Mark Ryan — Physical — Page 0 (Math)
 
   **Just Reading**:
-  - *Crime e castigo* — Dostoiévski — Physical
-  - *Animais do mundo* — Physical
+  - *Crime e castigo* — Dostoiévski — Physical (Imaginative)
+  - *Animais do mundo* — Physical (Contemplative)
 
 ## **Critical Thinking & Logic**  
 - ☐ *How Not to Be Wrong* – Jordan Ellenberg  
@@ -33,7 +33,6 @@
 - ☐ *The Shallows* – Nicholas Carr
 
 ## **Systems Thinking & Complexity**  
-- ✅ *Thinking in Systems* – Donella Meadows  
 - ☐ *Complexity: A Guided Tour* – Melanie Mitchell  
 - ☐ *The Model Thinker* – Scott Page  
 - ☐ *Antifragile* – Nassim Taleb  
@@ -63,7 +62,6 @@
 * ☐ *The Rise and Fall of the Third Reich* – William L. Shirer
 * ☐ *Postwar: A History of Europe Since 1945* – Tony Judt
 * ☐ *The Lessons of History* – Will & Ariel Durant
-
 
 ## **Religion**  
 - ☐ *The World's Religions* – Huston Smith  
