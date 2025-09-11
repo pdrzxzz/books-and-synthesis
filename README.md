@@ -58,11 +58,36 @@
 
 ---
 
-### 🟡 Cálculo para Leigos — Mark Ryan — Physical — Page 0 (Math)   
+### 🟡 Cálculo para Leigos — Mark Ryan — Physical — Math
 
----
+    [ ] Parte I: Uma Visão Geral do Cálculo
+        [ ] Capítulo 1: O que é Cálculo?
+        [ ] Capítulo 2: As Duas Grandes Idéias do Cálculo: Diferenciação e Integração
+        [ ] Capítulo 3: Por que o Cálculo Funciona?
+    [ ] Parte II: Se Aquecendo com os Pré-requisitos do Cálculo
+        [ ] Capítulo 4: Pré-álgebra e Revisão de Álgebra
+        [ ] Capítulo 5: Funções Legais e seus Ótimos Gráficos
+        [ ] Capítulo 6: A Dança da Trigonometria
+    [ ] Parte III: Limites
+        [ ] Capítulo 7: Limites e Continuidade
+        [ ] Capítulo 8: Avaliando Limites
+    [ ] Parte IV: Diferenciação
+        [ ] Capítulo 9: Orientação da Diferenciação
+        [ ] Capítulo 10: Regras da Diferenciação – Sim, Cara, Elas Mandam
+        [ ] Capítulo 11: Diferenciação e o Formato das Curvas
+        [ ] Capítulo 12: Seus Problemas estão Resolvidos: A Diferenciação ao Resgate!
+    [ ] Parte V: Integração e Séries Infinitas
+        [ ] Capítulo 13: Introdução à Integração e Área Aproximada
+        [ ] Capítulo 14: Integração: Sua Diferenciação ao Contrário
+        [ ] Capítulo 15: Técnicas de Integração para Especialistas
+        [ ] Capítulo 16: Esqueça o Dr. Phill: Use a Integral para Resolver Problemas
+        [ ] Capítulo 17: Série Infinita
+    [ ] Parte VI: A Parte dos “Dez”
+        [ ] Capítulo 18: Dez Coisas para se Lembrar
+        [ ] Capítulo 19: Dez Coisas para Esquecer
+        [ ] Capítulo 20: Dez Coisas com as Quais Você Não Pode Escapar
 
-### 🟡 How to Read a Book – Mortimer Adler — PDF — Page 262 (Learning)
+### 🟡 How to Read a Book – Mortimer Adler — PDF — Linear — Page 262 (Learning)
 
 ---
 
