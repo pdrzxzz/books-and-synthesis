@@ -8,7 +8,7 @@
 
 ### 🟡 Distributed Systems — Tanembaum — PDF (Computer Science)
 
-    [ ] 1. Introduction  
+    [ ] 1. Introduction — Enterprise Page 42
     [ ] 2. Architectures  
     [ ] 3. Processes  
     [ ] 4. Communication  
