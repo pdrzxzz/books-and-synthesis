@@ -45,7 +45,7 @@
 ### 🟡 Fundamentos de Física Volume 1 — Halliday & Resnick — PDF (Physics)
 
     [x] Medição  
-    [ ] Movimento Retilíneo — 2-3 Aceleração — Page 65  
+    [ ] Movimento Retilíneo — 2-4 Aceleração Constante — Page 70  
     [ ] Vetores  
     [ ] Movimento em Duas e Três Dimensões  
     [ ] Força e Movimento – I  
