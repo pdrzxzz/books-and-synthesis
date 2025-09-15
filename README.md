@@ -26,7 +26,7 @@
 
 ### 🟡 Fundamentos da Metodologia Científica — PDF (Computer Science)
 
-    [ ] 1. Procedimentos Didáticos  
+    [x] 1. Procedimentos Didáticos  
     [ ] 2. Pesquisa Bibliográfica e Resumos  
     [ ] 3. Conhecimento Científico e Ciência  
     [ ] 4. Métodos Científicos  
