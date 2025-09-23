@@ -64,10 +64,10 @@
         [x] Capítulo 1: O que é Cálculo?
         [x] Capítulo 2: As Duas Grandes Idéias do Cálculo: Diferenciação e Integração
         [x] Capítulo 3: Por que o Cálculo Funciona?
-    [ ] Parte II: Se Aquecendo com os Pré-requisitos do Cálculo
-        [ ] Capítulo 4: Pré-álgebra e Revisão de Álgebra
-        [ ] Capítulo 5: Funções Legais e seus Ótimos Gráficos
-        [ ] Capítulo 6: A Dança da Trigonometria
+    [x] Parte II: Se Aquecendo com os Pré-requisitos do Cálculo
+        [x] Capítulo 4: Pré-álgebra e Revisão de Álgebra
+        [x] Capítulo 5: Funções Legais e seus Ótimos Gráficos
+        [x] Capítulo 6: A Dança da Trigonometria
     [ ] Parte III: Limites
         [ ] Capítulo 7: Limites e Continuidade
         [ ] Capítulo 8: Avaliando Limites
