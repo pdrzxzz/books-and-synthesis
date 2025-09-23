@@ -71,8 +71,8 @@
     [x] Parte III: Limites
         [x] Capítulo 7: Limites e Continuidade
         [x] Capítulo 8: Avaliando Limites
-        [ ] Capítulo 9: Orientação da Diferenciação
     [ ] Parte IV: Diferenciação — Page 132
+        [ ] Capítulo 9: Orientação da Diferenciação
         [ ] Capítulo 10: Regras da Diferenciação – Sim, Cara, Elas Mandam
         [ ] Capítulo 11: Diferenciação e o Formato das Curvas
         [ ] Capítulo 12: Seus Problemas estão Resolvidos: A Diferenciação ao Resgate!
