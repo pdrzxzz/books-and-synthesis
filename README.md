@@ -68,11 +68,11 @@
         [x] Capítulo 4: Pré-álgebra e Revisão de Álgebra
         [x] Capítulo 5: Funções Legais e seus Ótimos Gráficos
         [x] Capítulo 6: A Dança da Trigonometria
-    [ ] Parte III: Limites
-        [ ] Capítulo 7: Limites e Continuidade
-        [ ] Capítulo 8: Avaliando Limites
-    [ ] Parte IV: Diferenciação
+    [x] Parte III: Limites
+        [x] Capítulo 7: Limites e Continuidade
+        [x] Capítulo 8: Avaliando Limites
         [ ] Capítulo 9: Orientação da Diferenciação
+    [ ] Parte IV: Diferenciação — Page 132
         [ ] Capítulo 10: Regras da Diferenciação – Sim, Cara, Elas Mandam
         [ ] Capítulo 11: Diferenciação e o Formato das Curvas
         [ ] Capítulo 12: Seus Problemas estão Resolvidos: A Diferenciação ao Resgate!
