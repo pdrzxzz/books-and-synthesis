@@ -62,7 +62,7 @@
 
     [x] Parte I: Uma Visão Geral do Cálculo
         [x] Capítulo 1: O que é Cálculo?
-        [ ] Capítulo 2: As Duas Grandes Idéias do Cálculo: Diferenciação e Integração
+        [x] Capítulo 2: As Duas Grandes Idéias do Cálculo: Diferenciação e Integração
         [ ] Capítulo 3: Por que o Cálculo Funciona?
     [ ] Parte II: Se Aquecendo com os Pré-requisitos do Cálculo
         [ ] Capítulo 4: Pré-álgebra e Revisão de Álgebra
