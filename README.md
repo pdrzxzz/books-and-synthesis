@@ -9,7 +9,7 @@
 ### 🟡 Distributed Systems — Tanembaum — PDF (Computer Science)
 
     [x] 1. Introduction
-    [ ] 2. Architectures  
+    [ ] 2. Architectures — Page 55, 2.2
     [ ] 3. Processes  
     [ ] 4. Communication  
     [ ] 5. Naming  
