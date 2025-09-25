@@ -5,6 +5,7 @@
 - Current book(s):
 
 ## **📝 Studying**
+Obs: Synthesizing the content after completing a textbook.
 
 ### 🟡 Distributed Systems — Tanembaum — PDF (Computer Science)
 
@@ -42,7 +43,7 @@
 
 ---
 
-### 🟡 Fundamentos de Física Volume 1 — Halliday & Resnick — PDF (Physics)
+### 🟡 Fundamentos de Física Volume 1 — PDF (Physics)
 
     [x] Medição  
     [x] Movimento Retilíneo
@@ -58,7 +59,7 @@
 
 ---
 
-### 🟡 Cálculo para Leigos — Mark Ryan — Physical — Math
+### 🟡 Cálculo para leigos — Physical — Math
 
     [x] Parte I: Uma Visão Geral do Cálculo
         [x] Capítulo 1: O que é Cálculo?
@@ -87,7 +88,7 @@
         [ ] Capítulo 19: Dez Coisas para Esquecer
         [ ] Capítulo 20: Dez Coisas com as Quais Você Não Pode Escapar
 
-### 🟡 How to Read a Book – Mortimer Adler — PDF — Linear — Page 321 (Learning) — Synthesis after whole book
+### 🟡 How to Read a Book – Mortimer Adler — PDF — Linear — Page 321 (Learning)
 
 ---
 
