@@ -87,7 +87,7 @@
         [ ] Capítulo 19: Dez Coisas para Esquecer
         [ ] Capítulo 20: Dez Coisas com as Quais Você Não Pode Escapar
 
-### 🟡 How to Read a Book – Mortimer Adler — PDF — Linear — Page 321 (Learning)
+### 🟡 How to Read a Book – Mortimer Adler — PDF — Linear — Page 321 (Learning) — Synthesis after whole book
 
 ---
 
