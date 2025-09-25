@@ -27,7 +27,7 @@
 ### 🟡 Fundamentos da Metodologia Científica — PDF (Computer Science)
 
     [x] 1. Procedimentos Didáticos  
-    [ ] 2. Pesquisa Bibliográfica e Resumos  
+    [x] 2. Pesquisa Bibliográfica e Resumos  
     [ ] 3. Conhecimento Científico e Ciência  
     [ ] 4. Métodos Científicos  
     [ ] 5. Fatos, Teoria e Leis  
@@ -46,7 +46,7 @@
 
     [x] Medição  
     [x] Movimento Retilíneo
-    [ ] Vetores   114
+    [ ] Vetores 114
     [ ] Movimento em Duas e Três Dimensões  
     [ ] Força e Movimento – I  
     [ ] Força e Movimento – II  
