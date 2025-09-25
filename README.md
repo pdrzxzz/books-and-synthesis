@@ -2,7 +2,6 @@
 - Current period: **05**
 - College Domain: **Computer Science**, **Math** and **Physics**
 - Side Domain(s): **Learning**
-- Current book(s):
 
 ## **📝 Studying**
 Obs: Synthesizing the content after completing a textbook.
