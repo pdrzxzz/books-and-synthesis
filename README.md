@@ -4,7 +4,7 @@
 - Side Domain(s): **Learning**
 
 ## **📝 Studying**
-Obs: Synthesizing the content after completing a textbook.
+Obs: Synthesizing the content after finishing studying a book. (Study x Read)
 
 ### 🟡 Distributed Systems — Tanembaum — PDF (Computer Science)
 
