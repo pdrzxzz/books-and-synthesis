@@ -97,6 +97,9 @@ Obs: Synthesizing the content after finishing studying a book. (Study x Read)
 
 ### 🟢 Animais do Mundo — Physical (Contemplative)
 
+### 🟢 Crepúsculo dos ídolos — Nietzsche — Physical (Reflexive)
+
+
 ---
 
 ## 🌐 Domains
