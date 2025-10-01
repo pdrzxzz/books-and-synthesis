@@ -49,7 +49,7 @@ Obs: Synthesizing the content after finishing studying a book. (Study x Read)
     [x] Vetores
     [x] Movimento em Duas e Três Dimensões — 4-5 (190)
     [ ] Força e Movimento – I  
-    [ ] Força e Movimento – II  
+    [x] Força e Movimento – II  
     [ ] Energia Cinética e Trabalho  
     [ ] Energia Potencial e Conservação da Energia  
     [ ] Centro de Massa e Momento Linear  
