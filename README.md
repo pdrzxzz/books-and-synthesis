@@ -87,7 +87,7 @@ Obs: Synthesizing the content after finishing studying a book. (Study x Read)
         [ ] Capítulo 19: Dez Coisas para Esquecer
         [ ] Capítulo 20: Dez Coisas com as Quais Você Não Pode Escapar
 
-### 🟡 How to Read a Book – Mortimer Adler — PDF — Linear — Page 393 (Learning)
+### 🟡 Como ler livros – Mortimer Adler — PDF — Page 403 (Learning)
 
 ---
 
