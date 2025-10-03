@@ -48,7 +48,7 @@ Obs: Synthesizing the content after finishing studying a book. (Study x Read)
     [x] Movimento Retilíneo
     [x] Vetores
     [x] Movimento em Duas e Três Dimensões — 4-5 (190)
-    [ ] Força e Movimento – I  
+    [x] Força e Movimento – I  
     [x] Força e Movimento – II  
     [ ] Energia Cinética e Trabalho  
     [ ] Energia Potencial e Conservação da Energia  
