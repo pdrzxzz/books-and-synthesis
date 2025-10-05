@@ -97,9 +97,6 @@ Obs: Synthesizing the content after finishing studying a book. (Study x Read)
 
 ### 🟢 Animais do Mundo — Physical (Contemplative)
 
-### 🟢 Crepúsculo dos ídolos — Nietzsche — Physical (Reflexive)
-
-
 ---
 
 ## 🌐 Domains
@@ -352,3 +349,4 @@ Obs: Synthesizing the content after finishing studying a book. (Study x Read)
 
 ### Paused: 
     *The Science Book* — DK — PDF — Page 60 (General Science)
+	🟢 Crepúsculo dos ídolos — Nietzsche — Physical (Reflexive)
