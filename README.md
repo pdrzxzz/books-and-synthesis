@@ -58,7 +58,7 @@ Obs: Synthesizing the content after finishing studying a book. (Study x Read)
 
 ---
 
-### 🟡 Cálculo para leigos — Physical — Math
+### 🟡 Cálculo para leigos — PDF (Math)
 
     [x] Parte I: Uma Visão Geral do Cálculo
         [x] Capítulo 1: O que é Cálculo?
