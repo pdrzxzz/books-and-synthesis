@@ -71,9 +71,9 @@ Obs: Synthesizing the content after finishing studying a book. (Study x Read)
     [x] Parte III: Limites
         [x] Capítulo 7: Limites e Continuidade
         [x] Capítulo 8: Avaliando Limites
-    [ ] Parte IV: Diferenciação — Page 132
-        [ ] Capítulo 9: Orientação da Diferenciação
-        [ ] Capítulo 10: Regras da Diferenciação – Sim, Cara, Elas Mandam
+    [ ] Parte IV: Diferenciação — Page 164 Por que a regra da cadeia funciona?
+        [x] Capítulo 9: Orientação da Diferenciação 
+        [ ] Capítulo 10: Regras da Diferenciação – Sim, Cara, Elas Mandam 
         [ ] Capítulo 11: Diferenciação e o Formato das Curvas
         [ ] Capítulo 12: Seus Problemas estão Resolvidos: A Diferenciação ao Resgate!
     [ ] Parte V: Integração e Séries Infinitas
