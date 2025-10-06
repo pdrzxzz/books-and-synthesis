@@ -6,6 +6,8 @@
 ## **📝 Studying**
 Obs: Synthesizing the content after finishing studying a book. (Study x Read)
 
+### 🟡 Como ler livros – Mortimer Adler — PDF — Synthesis (Learning)
+
 ### 🟡 Distributed Systems — Tanembaum — PDF (Computer Science)
 
     [x] 1. Introduction
@@ -86,8 +88,6 @@ Obs: Synthesizing the content after finishing studying a book. (Study x Read)
         [ ] Capítulo 18: Dez Coisas para se Lembrar
         [ ] Capítulo 19: Dez Coisas para Esquecer
         [ ] Capítulo 20: Dez Coisas com as Quais Você Não Pode Escapar
-
-### 🟡 Como ler livros – Mortimer Adler — PDF — Page 403 (Learning)
 
 ---
 
