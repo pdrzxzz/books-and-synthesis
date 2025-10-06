@@ -6,8 +6,6 @@
 ## **📝 Studying**
 Obs: Synthesizing the content after finishing studying a book. (Study x Read)
 
-### 🟡 Como ler livros – Mortimer Adler — PDF — Synthesis (Learning)
-
 ### 🟡 Distributed Systems — Tanembaum — PDF (Computer Science)
 
     [x] 1. Introduction
