@@ -1,105 +1,121 @@
-# How to read a Book
+# Como ler livros
 
-## Inspectional Reading
+Essa síntese é minha e pode não corresponder exatamente ao conteúdo contido no livro mas sim ao que eu extraí ou adaptei dele.
 
-### **A. Systematic Skimming (Pre-reading)**
+## É sobre o quê?
 
-1. **Look at the title page and preface**
-   – What kind of book is it? What’s its purpose?
+É um livro prático sobre aprendizado e desenvolvimento intelectual.
 
-2. **Study the table of contents**
-   – This gives you the book’s structure and main topics.
+Ensina e incentiva a prática da leitura, isto é, porque fazê-la e como fazê-la plenamente.  
 
-3. **Check the index (if any)**
-   – Look at recurring terms, names, or concepts.
+## Como essa ideia é desenvolvida?
 
-4. **Read the publisher’s blurb or introduction (if by the author)**
-   – Sometimes biased, but it often frames the book’s main idea.
+O livro é dividido em quatro partes
 
-5. **Skim a few pivotal chapters**
-   – Especially the beginning, ending, and any especially central ones.
+## 1. Sobre a leitura
 
-6. **Turn the pages, dipping in here and there**
-   – Glance at summaries, subheadings, bold/italicized words, diagrams, and conclusion paragraphs.
+**Por que ler?** → Expõe os benefícios da leitura.
 
-👉 The goal: **get a general idea of what the book is about and how it’s structured**—not to absorb details.
+**Como ler bem? →** É argumentado que uma leitura boa é, necessariamente, uma leitura ativa.
 
-### **B. Superficial Reading**
+Também é apresentado os diferentes objetivos da leitura, que necessitam velocidades diferentes de leitura e também concebem diferentes benefícios ao leitor. É dado ênfase à leitura para entendimento, na qual o autor consegue, por meio do livro, expandir seu entendimento sobre o mundo e sobre si mesmo.
 
-7. **Read the book through without stopping to look things up.**  
-   – Don’t get stuck on passages you don’t fully understand.  
-   – Push forward to get the gist, even if some things remain unclear.  
+Apresenta uma metodologia de leitura, tanto para um único livro quanto para vários livros sobre um mesmo tema. 
 
-👉 The goal: **grasp the whole before diving into details**.
+Essa metodologia está dividida em 4 níveis principais:
 
-## Analytical Reading
+- Leitura Elementar
+- Leitura Inspecional (ou prévia)
+- Leitura Analítica
+- Leitura Sintópica
 
-### **Stage 1: Classify the Book (What kind of book is it?)**
+A **Leitura Elementar** não é muito abordada no livro pois não é seu foco principal, mas consiste em conhecer o vocabulário e conseguir extrair significado das palavras do texto.
 
-1. **Classify the book according to kind and subject matter.**
+A leitura Inspecional é dividida em dois estágios:
 
-   * Is it practical or theoretical?
-   * If theoretical, is it history, science, or philosophy?
-   * Narrow down further into sub-categories.
+1. Folheamento (Skimming)
+2. Leitura Superficial
 
-2. **State what the whole book is about with the utmost brevity.**
+Em que o **Folheamento** inclui ler o título, subtítulo, sumário, prefácio, introdução e extrair uma ideia geral do texto, com o fim de responder a pergunta: “Do que se trata?” ou “É sobre o quê?”
 
-   * Summarize its main theme in a sentence or two.
+A **Leitura Superficial** por sua vez inclui uma leitura completa do texto do começo ao fim sem pausas por falta de entendimento, ou seja, ignorando aquilo que pareceu confuso à primeira vista. Tem o intuito de entender a abordagem do texto e ter uma noção geral de toda a obra. Com o fim de responder a pergunta: “Como essa ideia é desenvolvida?”.
 
-3. **Enumerate its major parts in order and relation.**
+## 2. Leitura analítica
 
-   * Make an outline of the structure (like a map of the book).
+A **Leitura Analítica** é a que ocupa maior parte do livro, sua forma básica é feita para ser empregada na leitura de livros expositivos. Ela é dividida em três estágios:
 
-4. **Define the problem(s) the author is trying to solve.**
+1. **Estrutural** (Do que o livro fala sobre?)
+2. **Interpretativo** (O que é dito sobre?)
+3. **Crítico** (Eu concordo/discordo por causa de…)
 
-   * Ask: What questions is the author addressing?
+Pode ser encontrado em maior detalhe na página 171 do pdf em português.
 
-### **Stage 2: Interpret the Book’s Contents (What is being said and how?)**
+Os estágios por sua vez também possuem suas regras:
 
-5. **Come to terms with the author by interpreting key words.**
+### **Estrutural** (Do que o livro fala sobre?)
 
-   * Identify important words and understand them in the way the author uses them.
+1. Classifique o livro.
+2. Descreva o livro em poucas palavras.
+3. Descreva a sua estrutura.
+4. Defina os problemas que o autor quer solucionar.
 
-6. **Grasp the author’s propositions.**
+### **Interpretativo** (O que é dito sobre?)
 
-   * Translate important sentences into your own words.
+- Interprete as palavras (palavras → termos).
+- Interprete as frases principais (frases → proposições).
+- Identifique os argumentos.
+- Identifique as soluções do autor (e se não há).
 
-7. **Know the author’s arguments.**
+### **Crítico** (Eu concordo/discordo por causa de…)
 
-   * Find the reasoning and evidence that supports their conclusions.
+- Não critique antes de ter certeza que entendeu.
+- Fundamente seu argumento. (Isto é, explique o porquê de você ter concordado ou discordado, ou de ter gostado ou não gostado).
 
-8. **Determine which problems the author has solved and which remain unsolved.**
+São apresentados os benefícios de classificar um livro e também a diferença entre um livro prático (ao qual lhe incita a tomar alguma ação) e um livro teórico (o qual não é prático).
 
-   * See how successful the author is at answering the central questions.
+Essas regras eu achei muito rígidas, não as seguirei à risca mas adaptarei a leitura analítica a meu próprio estilo.
 
-### **Stage 3: Criticize the Book as a Communication of Knowledge (Is it true?)**
+## 3. Como ler assuntos diferentes
 
-9. **Do not criticize before you can say you understand.**
+São apresentadas versões adaptadas das regras para diferentes assuntos. 
 
-   * Fairness requires full comprehension first.
+- Prático → O autor o persuadirá a buscar resolver o problema que ele apresenta.
 
-10. **Do not disagree until you can state the author’s position in your own words.**
+- Ficção → Imersa-se na história, viva-a como se estivesse lá e sinta sua energia. Por fim, explique porque você gostou ou não gostou, isso confirma que você se esforçou para extrair o que o livro tinha para oferecer. ***Rápida e Intensamente.***
 
-    * Be able to explain their case as well as they could.
+- História → Ler de vários pontos de vista. Relatos são incompletos e não confiáveis.
 
-11. **Respect the difference between knowledge and opinion.**
+- Filosofia → O que é um filósofo? → *Aquele que tudo questiona.* Faz as perguntas simples que as crianças fazem e concebe sábias e claras respostas dignas de um sábio. 
 
-    * Ask: Is this claim demonstrable fact, or the author’s personal viewpoint?
+Dicionário Pedroza: Filósofo, aquele que é capaz de formula as perguntas mais profundas, mais penetrantes, mais relevantes que podem ser perguntadas sobre o assunto refletido. E que, além disso, é capaz de coceber respostas clara e minuciosamente trabalhadas para suas perguntas por meio da reflexão, isto é, pensamento profundo geralmente sobre experiências ou ideias comuns. 
 
-### **Stage 4: Determine the Book’s Significance (What of it?)**
+No livro também são apresentados 5 tipos de livros filosóficos: 1. Platão e seus diálogos, 2. Tratado ou ensaio filosófico (Aristóteles, Kant…), 3. Encontro de objeções (São tomás de aquino na suma teológica), 4. Filosofia sistemática (Spinoza, Descartes) e 5. Aforismas (Nietzsche, Epiteto).
 
-12. **Show where the author is uninformed.**
+No livro também fala-se sobre a leitura de livros religiosos, e afirma que são a coisa mais difícil que um homem pode ler mas se o leitor acredita, é a mais importante.
 
-    * They may be missing relevant knowledge.
+- Ciência e matemática → Foco em “Qual o problema?”, leitura que pode ser muito prazerosa.
 
-13. **Show where the author is misinformed.**
+- Ciências sociais → Mistura de várias áreas, assim como a sociedade. 
 
-    * They may have facts wrong.
+Necessidade de uma leitura de mente aberta para novas ideias e de uma leitura sintópica para observar de vários pontos de vista diferentes.
 
-14. **Show where the author is illogical.**
+## 4. Leitura sintópica
 
-    * Their reasoning may not hold up.
+Usada para resolver problemas ou perguntas especificadas. Aplicada somente à leitura de livros expositivos.
 
-15. **Show where the author’s analysis is incomplete.**
+**Preparação:**
 
-    * They may fail to consider all aspects of the problem.
+- Definir o problema/pergunta e reconhecer que necessita de mais um livro.
+- Escolher os livros (por folheamento)
+
+**Passos:**
+
+1. Encontrar passagens relevantes (ideias principais) dos livros.
+2. Criar uma terminologia para unificar as mesmas ideias expressas de maneiras diferentes por diferentes autores (Trazer os autores aos seus termos). Mas importante manter registro das palavras do autor por causa de possíveis erros de interpretação durante a tradução.
+3. Questionar o conteúdo e obter respostas para suas perguntas (ou pontos de vista sobre seu problema)
+4. Organizar controvérias (conflitos) de ideias/respostas que naturalmente surgirão
+5. Analisar esses conflitos, colocando os autores em diálogo entre si, fazendo comparações, reconciliando diferenças ou deixando claro e explicado o desacordo.
+    
+    **Objetividade dialética → Capacidade de se manter neutro enquanto conduz um diálogo entre diferentes pontos de vista.**
+    
+    Em outras palavras: Capacidade de analisar a realidade a partir de contradições que a constituem, sem a pretensão de uma verdade absoluta mas buscando um conhecimento que surja do conflito e da interconexão de elementos opostos.
