@@ -28,7 +28,7 @@ Obs: Synthesizing the content after finishing studying a book. (Study x Read)
 
     [x] 1. Procedimentos Didáticos  
     [x] 2. Pesquisa Bibliográfica e Resumos  
-    [ ] 3. Conhecimento Científico e Ciência  
+    [x] 3. Conhecimento Científico e Ciência  
     [ ] 4. Métodos Científicos  
     [ ] 5. Fatos, Teoria e Leis  
     [ ] 6. Hipóteses  
