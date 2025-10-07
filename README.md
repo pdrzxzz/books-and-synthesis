@@ -58,36 +58,40 @@ Obs: Synthesizing the content after finishing studying a book. (Study x Read)
 
 ---
 
-### 🟡 Cálculo para leigos — PDF (Math)
+### 🟡 Cálculo 2 — James Stewart
 
-    [x] Parte I: Uma Visão Geral do Cálculo
-        [x] Capítulo 1: O que é Cálculo?
-        [x] Capítulo 2: As Duas Grandes Idéias do Cálculo: Diferenciação e Integração
-        [x] Capítulo 3: Por que o Cálculo Funciona?
-    [x] Parte II: Se Aquecendo com os Pré-requisitos do Cálculo
-        [x] Capítulo 4: Pré-álgebra e Revisão de Álgebra
-        [x] Capítulo 5: Funções Legais e seus Ótimos Gráficos
-        [x] Capítulo 6: A Dança da Trigonometria
-    [x] Parte III: Limites
-        [x] Capítulo 7: Limites e Continuidade
-        [x] Capítulo 8: Avaliando Limites
-    [ ] Parte IV: Diferenciação — Page 164 Por que a regra da cadeia funciona?
-        [x] Capítulo 9: Orientação da Diferenciação 
-        [ ] Capítulo 10: Regras da Diferenciação – Sim, Cara, Elas Mandam 
-        [ ] Capítulo 11: Diferenciação e o Formato das Curvas
-        [ ] Capítulo 12: Seus Problemas estão Resolvidos: A Diferenciação ao Resgate!
-    [ ] Parte V: Integração e Séries Infinitas
-        [ ] Capítulo 13: Introdução à Integração e Área Aproximada
-        [ ] Capítulo 14: Integração: Sua Diferenciação ao Contrário
-        [ ] Capítulo 15: Técnicas de Integração para Especialistas
-        [ ] Capítulo 16: Esqueça o Dr. Phill: Use a Integral para Resolver Problemas
-        [ ] Capítulo 17: Série Infinita
-    [ ] Parte VI: A Parte dos “Dez”
-        [ ] Capítulo 18: Dez Coisas para se Lembrar
-        [ ] Capítulo 19: Dez Coisas para Esquecer
-        [ ] Capítulo 20: Dez Coisas com as Quais Você Não Pode Escapar
+	[ ] 14. Derivadas Parciais
+	- [ ] 14.1 Funções de Várias Variáveis
+	- [ ] 14.2 Limites e Continuidade
+	- [ ] 14.3 Derivadas Parciais
+	- [ ] 14.4 Planos Tangentes e Aproximações Lineares
+	- [ ] 14.5 A Regra da Cadeia
+	- [ ] 14.6 Derivadas Direcionais e o Vetor Gradiente
+	- [ ] 14.7 Valores Máximo e Mínimo
+	- [ ] Projeto Aplicado: Projeto de uma Caçamba
+	- [ ] Projeto de Descoberta: Aproximações Quadráticas e Pontos Críticos
+	- [ ] 14.8 Multiplicadores de Lagrange
+	- [ ] Projeto Aplicado: Ciência dos Foguetes
+	- [ ] Projeto Aplicado: Otimização de uma Turbina Hidráulica
+	- [ ] Revisão
+	- [ ] Problemas Quentes
 
----
+	[ ] 15. Integrais Múltiplas
+	- [ ] 15.1 Integrais Duplas sobre Retângulos
+	- [ ] 15.2 Integrais Iteradas
+	- [ ] 15.3 Integrais Duplas sobre Regiões Gerais
+	- [ ] 15.4 Integrais Duplas em Coordenadas Polares
+	- [ ] 15.5 Aplicações de Integrais Duplas
+	- [ ] 15.6 Área de Superfície
+	- [ ] 15.7 Integrais Triplas
+	- [ ] Projeto de Descoberta: Volumes de Hiperséferas
+	- [ ] 15.8 Integrais Triplas em Coordenadas Cilíndricas
+	- [ ] Projeto de Laboratório: A Intersecção de Três Cilindros
+	- [ ] 15.9 Integrais Triplas em Coordenadas Esféricas
+	- [ ] Projeto Aplicado: Corrida na Rampa
+	- [ ] 15.10 Mudança de Variáveis em Integrais Múltiplas
+	- [ ] Revisão
+	- [ ] Problemas Quentes
 
 ## **📖 Reading**
 
