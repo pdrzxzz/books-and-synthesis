@@ -1,7 +1,6 @@
 # ❇️ Reading Tracker
 - Current period: **05**
 - College Domain: **Computer Science**, **Math** and **Physics**
-- Side Domain(s): **Learning**
 
 ## **📝 Studying**
 Obs: Synthesizing the content after finishing studying a book. (Study x Read)
