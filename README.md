@@ -97,8 +97,6 @@ Obs: Synthesizing the content after finishing studying a book. (Study x Read)
 
 ### 🟢 Crime e Castigo — Dostoiévski — Physical 
 
-### 🟢 Crepúsculo dos ídolos — Nietzsche — Physical 
-
 ### 🟢 Animais do Mundo — Physical 
 
 ---
@@ -353,3 +351,4 @@ Obs: Synthesizing the content after finishing studying a book. (Study x Read)
 
 ### Paused: 
     *The Science Book* — DK — PDF — Page 60 (General Science)
+	### 🟢 Crepúsculo dos ídolos — Nietzsche — Physical 
