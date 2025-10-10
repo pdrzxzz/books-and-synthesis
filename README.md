@@ -96,8 +96,6 @@ Obs: Synthesizing the content after finishing studying a book. (Study x Read)
 
 ### 🟢 Crime e Castigo — Dostoiévski — Physical 
 
-### 🟢 Animais do Mundo — Physical 
-
 ---
 
 ## 🌐 Domains
