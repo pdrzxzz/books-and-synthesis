@@ -93,8 +93,7 @@ Obs: Synthesizing the content after finishing studying a book. (Study x Read)
 	- [ ] Problemas Quentes
 
 ## **📖 Reading**
-
-### 🟢 Crime e Castigo — Dostoiévski — Physical 
+ 
 
 ---
 
