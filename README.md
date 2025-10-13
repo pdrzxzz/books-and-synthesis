@@ -49,7 +49,7 @@ Obs: Synthesizing the content after finishing studying a book. (Study x Read)
     [x] Movimento em Duas e Três Dimensões
     [x] Força e Movimento – I  
     [x] Força e Movimento – II  
-    [ ] Energia Cinética e Trabalho  
+    [x] Energia Cinética e Trabalho  
     [ ] Energia Potencial e Conservação da Energia  
     [ ] Centro de Massa e Momento Linear  
     [ ] Rotação  
@@ -93,7 +93,6 @@ Obs: Synthesizing the content after finishing studying a book. (Study x Read)
 	- [ ] Problemas Quentes
 
 ## **📖 Reading**
- 
 
 ---
 
