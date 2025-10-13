@@ -2,10 +2,10 @@
 - Current period: **05**
 - College Domain: **Computer Science**, **Math** and **Physics**
 
-## **📝 Studying**
-Obs: Synthesizing the content after finishing studying a book. (Study x Read)
+## **📝 Studying (PDF)**
+Obs: Synthesizing the content after finishing studying a book.
 
-### 🟡 Distributed Systems — Tanembaum — PDF (Computer Science)
+### 🟡 Distributed Systems — Tanembaum (Computer Science)
 
     [x] 1. Introduction
     [ ] 2. Architectures — Page 55, 2.2
@@ -23,7 +23,7 @@ Obs: Synthesizing the content after finishing studying a book. (Study x Read)
 
 ---
 
-### 🟡 Fundamentos da Metodologia Científica — PDF (Computer Science)
+### 🟡 Fundamentos da Metodologia Científica (Computer Science)
 
     [x] 1. Procedimentos Didáticos  
     [x] 2. Pesquisa Bibliográfica e Resumos  
@@ -41,7 +41,7 @@ Obs: Synthesizing the content after finishing studying a book. (Study x Read)
 
 ---
 
-### 🟡 Fundamentos de Física Volume 1 — PDF (Physics)
+### 🟡 Fundamentos de Física Volume 1 (Physics)
 
     [x] Medição  
     [x] Movimento Retilíneo
@@ -57,7 +57,7 @@ Obs: Synthesizing the content after finishing studying a book. (Study x Read)
 
 ---
 
-### 🟡 Cálculo 2 — James Stewart — PDF (Math)
+### 🟡 Cálculo 2 — James Stewart (Math)
 
 	[ ] 14. Derivadas Parciais
 	- [ ] 14.1 Funções de Várias Variáveis
@@ -91,11 +91,12 @@ Obs: Synthesizing the content after finishing studying a book. (Study x Read)
 	- [ ] 15.10 Mudança de Variáveis em Integrais Múltiplas
 	- [ ] Revisão
 	- [ ] Problemas Quentes
+	
+### 🟡 *Steal Like an Artist* — Austion Kleon
 
-## **📖 Reading**
+## **📖 Reading (Physical)**
 
-### 🟢 *O Livro da Ciência* — Globo livros — Physical (General Science)
-### 🟢 *Steal Like an Artist* — Austion Kleon — PDF
+### 🟢 *O Livro da Ciência* — Globo livros (General Science)
 
 ---
 
