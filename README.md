@@ -94,8 +94,8 @@ Obs: Synthesizing the content after finishing studying a book. (Study x Read)
 
 ## **📖 Reading**
 
-	🟢 *O livro da ciência* — Globo livros — Physical (General Science)
-	🟢 *Steal Like an Artist* — Austion Kleon — PDF
+### 🟢 *O Livro da Ciência* — Globo livros — Physical (General Science)
+### 🟢 *Steal Like an Artist* — Austion Kleon — PDF
 
 ---
 
