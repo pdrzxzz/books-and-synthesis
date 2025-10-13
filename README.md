@@ -92,7 +92,7 @@ Obs: Synthesizing the content after finishing studying a book.
 	- [ ] Revisão
 	- [ ] Problemas Quentes
 	
-### 🟡 *Steal Like an Artist* — Austion Kleon
+### 🟡 *Steal Like an Artist* — Austion Kleon — Page 36 Chapter 3
 
 ## **📖 Reading (Physical)**
 
