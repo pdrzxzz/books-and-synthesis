@@ -50,7 +50,7 @@ Obs: Synthesizing the content after finishing studying a book.
     [x] Força e Movimento – I  
     [x] Força e Movimento – II  
     [x] Energia Cinética e Trabalho  
-    [ ] Energia Potencial e Conservação da Energia  
+    [x] Energia Potencial e Conservação da Energia  
     [ ] Centro de Massa e Momento Linear  
     [ ] Rotação  
     [ ] Rolagem, Torque e Momento Angular  
