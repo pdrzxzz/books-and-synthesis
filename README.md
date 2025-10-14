@@ -130,13 +130,8 @@ Obs: Synthesizing the content after finishing studying a book.
 	* Agriculture & Sustainability
 	* Board Games & Strategy
 	* Future / Technology & AI
-	* Projects & Social Issues
-	* Tools & Productivity
 
 ---
-
-Se quiser, posso criar **uma versão ainda mais enxuta e lógica**, tipo uma “tabela de domínios” só com os grandes ramos do conhecimento, para ficar mais fácil de navegar e decidir o que estudar. Quer que eu faça?
-
 
 ### Paused: 
 	### 🟢 Crepúsculo dos ídolos — Nietzsche — Physical 
