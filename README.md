@@ -60,7 +60,7 @@ Obs: Synthesizing the content after finishing studying a book.
 ### 🟡 Cálculo 2 — James Stewart (Math)
 
 	[ ] 14. Derivadas Parciais
-	- [ ] 14.1 Funções de Várias Variáveis
+	- [x] 14.1 Funções de Várias Variáveis
 	- [ ] 14.2 Limites e Continuidade
 	- [ ] 14.3 Derivadas Parciais
 	- [ ] 14.4 Planos Tangentes e Aproximações Lineares
