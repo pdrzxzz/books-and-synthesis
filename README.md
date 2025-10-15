@@ -91,8 +91,6 @@ Obs: Synthesizing the content after finishing studying a book.
 	- [ ] 15.10 Mudança de Variáveis em Integrais Múltiplas
 	- [ ] Revisão
 	- [ ] Problemas Quentes
-	
-### 🟡 *Steal Like an Artist* — Austion Kleon — Page 103 Chapter 10
 
 ## **📖 Reading (Physical)**
 
