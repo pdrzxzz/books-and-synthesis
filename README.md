@@ -59,21 +59,15 @@ Obs: Synthesizing the content after finishing studying a book.
 
 ### 🟡 Cálculo 2 — James Stewart (Math)
 
-	[ ] 14. Derivadas Parciais
+	[x] 14. Derivadas Parciais
 	- [x] 14.1 Funções de Várias Variáveis
-	- [ ] 14.2 Limites e Continuidade
-	- [ ] 14.3 Derivadas Parciais
-	- [ ] 14.4 Planos Tangentes e Aproximações Lineares
-	- [ ] 14.5 A Regra da Cadeia
-	- [ ] 14.6 Derivadas Direcionais e o Vetor Gradiente
-	- [ ] 14.7 Valores Máximo e Mínimo
-	- [ ] Projeto Aplicado: Projeto de uma Caçamba
-	- [ ] Projeto de Descoberta: Aproximações Quadráticas e Pontos Críticos
-	- [ ] 14.8 Multiplicadores de Lagrange
-	- [ ] Projeto Aplicado: Ciência dos Foguetes
-	- [ ] Projeto Aplicado: Otimização de uma Turbina Hidráulica
-	- [ ] Revisão
-	- [ ] Problemas Quentes
+	- [x] 14.2 Limites e Continuidade
+	- [x] 14.3 Derivadas Parciais
+	- [x] 14.4 Planos Tangentes e Aproximações Lineares
+	- [x] 14.5 A Regra da Cadeia
+	- [x] 14.6 Derivadas Direcionais e o Vetor Gradiente
+	- [x] 14.7 Valores Máximo e Mínimo
+	- [x] 14.8 Multiplicadores de Lagrange
 
 	[ ] 15. Integrais Múltiplas
 	- [ ] 15.1 Integrais Duplas sobre Retângulos
@@ -83,14 +77,9 @@ Obs: Synthesizing the content after finishing studying a book.
 	- [ ] 15.5 Aplicações de Integrais Duplas
 	- [ ] 15.6 Área de Superfície
 	- [ ] 15.7 Integrais Triplas
-	- [ ] Projeto de Descoberta: Volumes de Hiperséferas
 	- [ ] 15.8 Integrais Triplas em Coordenadas Cilíndricas
-	- [ ] Projeto de Laboratório: A Intersecção de Três Cilindros
 	- [ ] 15.9 Integrais Triplas em Coordenadas Esféricas
-	- [ ] Projeto Aplicado: Corrida na Rampa
 	- [ ] 15.10 Mudança de Variáveis em Integrais Múltiplas
-	- [ ] Revisão
-	- [ ] Problemas Quentes
 
 ## **📖 Reading (Physical)**
 
